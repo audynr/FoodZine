@@ -1273,7 +1273,7 @@ video {
 
 .star-input {
   position: fixed;
-  opacity: 0;
+  opacity: 5;
   pointer-events: none;
 }
 
